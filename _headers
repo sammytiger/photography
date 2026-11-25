@@ -1,0 +1,4 @@
+/img/*
+  Cache-Control: public, max-age=2592000
+/aspen/img/*
+  Cache-Control: public, max-age=2592000
